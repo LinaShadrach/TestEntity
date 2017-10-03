@@ -1,0 +1,9 @@
+/Users/epicodus_staff/Desktop/Lina2/Lina2/bin/Debug/netcoreapp1.1/Lina2.deps.json
+/Users/epicodus_staff/Desktop/Lina2/Lina2/bin/Debug/netcoreapp1.1/Lina2.runtimeconfig.json
+/Users/epicodus_staff/Desktop/Lina2/Lina2/bin/Debug/netcoreapp1.1/Lina2.runtimeconfig.dev.json
+/Users/epicodus_staff/Desktop/Lina2/Lina2/obj/Debug/netcoreapp1.1/Lina2.csproj.CoreCompileInputs.cache
+/Users/epicodus_staff/Desktop/Lina2/Lina2/obj/Debug/netcoreapp1.1/Lina2.AssemblyInfo.cs
+/Users/epicodus_staff/Desktop/Lina2/Lina2/bin/Debug/netcoreapp1.1/Lina2.dll
+/Users/epicodus_staff/Desktop/Lina2/Lina2/bin/Debug/netcoreapp1.1/Lina2.pdb
+/Users/epicodus_staff/Desktop/Lina2/Lina2/obj/Debug/netcoreapp1.1/Lina2.dll
+/Users/epicodus_staff/Desktop/Lina2/Lina2/obj/Debug/netcoreapp1.1/Lina2.pdb

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4BB486E4-F7E9-4175-92BC-DEC42223B7EE}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.Lina2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lina2/Models/Lina2DbContext.cs">
+    <Files>
+      <File FileName="Lina2/Controllers/HomeController.cs" Line="7" Column="55" />
+      <File FileName="Lina2/Views/Index.cshtml" Line="8" Column="8" />
+      <File FileName="Lina2/Models/Subscriber.cs" Line="20" Column="3" />
+      <File FileName="Lina2/Models/Product.cs" Line="20" Column="3" />
+      <File FileName="Lina2/Lina2.csproj" Line="27" Column="57" />
+      <File FileName="Lina2/appsettings.json" Line="5" Column="2" />
+      <File FileName="Lina2/Models/Lina2DbContext.cs" Line="12" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
